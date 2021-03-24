@@ -1,7 +1,7 @@
-### Hi there 👋
-
+![Screenshot 2021-03-24 at 7 53 21 PM](https://user-images.githubusercontent.com/13646846/112326681-b86f6780-8cda-11eb-82c2-87a35680510e.png)
+<h3>Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.</h3>
 <!--
-**rehbarkhan/rehbarkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rehbarkhan/rehbarkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+[![Rehbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehbarkhan)](https://github.com/rehbarkhan/github-readme-stats)
